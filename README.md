@@ -16,7 +16,7 @@ plotVolcano: make volcano plots from output of runLimmaPseudobulked or runLimmaD
 
 makeContrastScatter: scatterplot comparing logFC of genes in one contrast vs another contrast within cell type
 
-# Cell-cell communication ligand-receptor analysis
+## Cell-cell communication ligand-receptor analysis
 runNicheNetR: wrapper for NicheNetR ligand-receptor analysis that produces numerous summary plots and tables
 
 makeCircos: make Circos plots from output of runNichNetR()
