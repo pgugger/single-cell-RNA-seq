@@ -22,6 +22,8 @@ runNicheNetR: wrapper for NicheNetR ligand-receptor analysis that produces numer
 makeCircos: make Circos plots from output of runNichNetR()
 
 
-Coming soon: 
+
+
+### Coming soon: 
 1) wrapper function to import CellRanger output and organize for Seurat
 2) Example workflow
